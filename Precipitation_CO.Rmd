@@ -3,6 +3,7 @@ title: "Precipitation of Fort Collins in Colorado"
 author: "AJ"
 date: "3/29/2022"
 output: html_document
+ 
 ---
 
 
@@ -30,6 +31,8 @@ co_stations <- riem_stations(network = "CO_ASOS") %>%
   st_as_sf(., coords=c('lon', 'lat'), crs=4326)
 
 glimpse(co_stations)
+
+write.csv(co_stations,"Data/raw/co_stations.csv",row.names=F,na="")
 
 ```
 
@@ -68,10 +71,6 @@ ggplot(daily, aes(x=date, y = daily_rain)) +
   geom_point() +
   scale_y_log10() +
   labs(x="Year", y="Daily rain (inch)", title = "Daily Rain of Fort Collins")
-
-
-
-
 
 ```
 
