@@ -1,5 +1,5 @@
 # precip_explorer
-This is the repository for the ESS580A9 class. I have no specific project for mine as a PSM student, so I will use the live-cord of the class for developing skills. The below are description about this repository. 
+This is the repository for the ESS580A9 class. I have no specific project for mine as a PSM student, so I will use the live-cord of the class for developing skills. The below is a description about this repository. 
 
 
 1. Using riem to explore precipitation data in Colorado.
