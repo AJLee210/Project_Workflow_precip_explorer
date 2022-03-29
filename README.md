@@ -4,6 +4,6 @@ This is the repository for the ESS580A9 class. I have no specific project for mi
 
 1. Using riem to explore precipitation data in Colorado.
 
-2. Whole data would store in the 'Data' folder, 'raw' and 'cleaned' data will be seperately stocked in the Data folder.
+2. Whole data would store in the 'Data' folder, but 'raw' and 'cleaned' data will be seperately stocked in sub-folder of the Data folder.
 
-3. Final results would put in the folder named 'Output', but if I use 'booddown', the output might be moved to the new folder named 'docs'.
+3. Final results would put in the folder named 'Output', but if I use 'booddown' lately, the output might be moved to the new folder named 'docs'.
