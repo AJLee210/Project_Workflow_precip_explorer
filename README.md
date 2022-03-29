@@ -1,2 +1,9 @@
 # precip_explorer
-Using riem to explore precip data in CO, but just precip at aiports. 
+This is the repository for the ESS580A9 class. I have no specific project for mine as a PSM student, so I will use the live-cord of the class for developing skills. The below are description about this repository. 
+
+
+1. Using riem to explore precipitation data in Colorado.
+
+2. Whole data would store in the 'Data' folder, 'raw' and 'cleaned' data will be seperately stocked in the Data folder.
+
+3. Final results would put in the folder named 'Output', but if I use 'booddown', the output might be moved to the new folder named 'docs'.
